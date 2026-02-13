@@ -18,7 +18,7 @@ Foundational introduction to polymer informatics, molecular representation, and 
 </p>
 
 <p align="center">
-  <img src="images/molecular_mass_distribution.png" width="500"/>
+  <img src="images/molar_mass_distribution.png" width="500"/>
   <br>
   <sub> Fig 3. Distribution of molecular weights of repeating units. </sub>
 </p>
