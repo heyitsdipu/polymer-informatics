@@ -5,6 +5,10 @@ This repository provides four Jupyter notebooks forming a structured learning mo
 **01_polymer_ml_foundation.ipynb**  
 Foundational introduction to polymer informatics, molecular representation, and feature engineering.
 
+<p align="center">
+  <img src="images/descriptor_correlation.png" width="500"/>
+</p>
+
 **02_polymer_prediction.ipynb**  
 Polymer property prediction using supervised learning models and evaluation protocols.
 
