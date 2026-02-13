@@ -6,7 +6,15 @@ This repository provides four Jupyter notebooks forming a structured learning mo
 Foundational introduction to polymer informatics, molecular representation, and feature engineering.
 
 <p align="center">
+  <img src="images/Tg_distribution.png" width="500"/>
+  <br>
+  <sub> Fig 1. Distribution of polymer glass-transition tempeature (Tg) showing dataset coverage and density. </sub>
+</p>
+
+<p align="center">
   <img src="images/descriptor_correlation.png" width="500"/>
+  <br>
+  <sub> Fig 2. Pearson correlation matrix of molecular descriptors higlighting redundancy and feature dependence. </sub>
 </p>
 
 **02_polymer_prediction.ipynb**  
