@@ -1,0 +1,26 @@
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# Conda / env
+.conda/
+.env
+.envrc
+
+# Jupyter
+*.log
+
+# Data / artifacts
+#data/
+outputs/
+models/
+checkpoints/
+wandb/
+mlruns/
+
+# OS
+.DS_Store
+EOF
