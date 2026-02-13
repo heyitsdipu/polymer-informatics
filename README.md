@@ -17,6 +17,13 @@ Foundational introduction to polymer informatics, molecular representation, and 
   <sub> Fig 2. Pearson correlation matrix of molecular descriptors higlighting redundancy and feature dependence. </sub>
 </p>
 
+<p align="center">
+  <img src="images/molecular_mass_distribution.png" width="500"/>
+  <br>
+  <sub> Fig 3. Distribution of molecular weights of repeating units. </sub>
+</p>
+
+
 **02_polymer_prediction.ipynb**  
 Polymer property prediction using supervised learning models and evaluation protocols.
 
