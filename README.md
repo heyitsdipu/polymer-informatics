@@ -24,6 +24,8 @@ Foundational introduction to polymer informatics, molecular representation, and 
 </p>
 
 
+**Work in Progess**  
+
 **02_polymer_prediction.ipynb**  
 Polymer property prediction using supervised learning models and evaluation protocols.
 
@@ -32,3 +34,5 @@ Construction of virtual polymers from small-molecule datasets and polymerization
 
 **04_polymer_inverse_design_generation.ipynb**  
 Generative and inverse-design approaches for creating hypothetical polymers using reinforcement-learning-driven optimization.
+
+Last update: 14/02/26
